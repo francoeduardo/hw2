@@ -1,0 +1,25 @@
+createCanvas(340,340);
+
+background (228,223,227);
+strokeWeight(5);
+
+//red
+fill (234,0,0);
+ellipse (45,45,180,180);
+
+//white
+fill (228,223,227);
+ellipse (255,80,240,240);
+ellipse (90,190,120,120);
+ellipse (87,298,94,94);
+ellipse (340,298,160,160);
+ellipse (196,394,130,130);
+
+
+//yellow
+fill (254,218,0);
+ellipse (-50,260,185,185);
+
+//blue
+fill (33,26,111);
+ellipse (196,260,130,130);
